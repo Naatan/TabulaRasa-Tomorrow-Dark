@@ -1,6 +1,12 @@
+This is a color preset for the [Tabula Rasa] skin. It's based on the Tomorrow-Dark color scheme.
+
+### Dark
+
 ![Screenshot](screenshot.png)
 
-This is a color preset for the [Tabula Rasa] skin. It's based on the Tomorrow-Dark color scheme.
+### Extra Dark
+
+![Screenshot2](screenshot2.png)
 
 ## Installation and Usage
 
